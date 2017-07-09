@@ -1,0 +1,14 @@
+name = CMA Reservations: Resource Chart
+description = "This module provides a chart of all the reservable inventory for a day or days and shows all of the reservations made against the inventory. It shows both resources and buckets."
+package = Community Media Advanced
+core = 7.x
+files[] = reservations_resource_chart.css
+project = reservations_resource_chart
+project_status_url = https://github.com/cm-advanced/reservations_resource_chart
+
+version = "7.x-1.0"
+
+dependencies[] = reservations
+
+
+
